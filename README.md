@@ -6,9 +6,9 @@ _Admin user_: admin@gmail.com
 
 _Admin password_: 1234
 
-### Access the website here [MyBlog](https://yourblog.vercel.app/).
+### Access the website here [YourBlog](https://yourblog.vercel.app/).
 
-![exem](https://github.com/Genilsonbick/blog-with-users/assets/135557745/014dcde7-946f-458e-8da5-0c31c69a74be)
+![blog](https://github.com/Genilsonbick/blog-with-users/assets/135557745/114f4473-2ad8-4462-9c15-b9293a6ba16b)
 
-# Database:
+# Database
 PostgreSQL ✔️
